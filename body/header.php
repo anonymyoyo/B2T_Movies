@@ -47,5 +47,7 @@
 
 
 <!-- cards start -->
-    <div class="cards"></div>
+    <div class="cards">
+        <a href="#" class="card"></a>
+    </div>
 </header>
