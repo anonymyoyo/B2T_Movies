@@ -2,10 +2,10 @@
 <link rel="stylesheet" href="../css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7/font/bootstrap-icons.css">
 <header>
-    <div class="mic_dot">
+    <!-- <div class="mic_dot">
         <div class="mic"></div>
         <div class="dot"></div>
-    </div>
+    </div> -->
     <nav>
         <h3 class="brand">
             B2T Movies
@@ -14,7 +14,7 @@
             <li><a href="#">Home</a></li>
             <li><a href="#">Tv Shows</a></li>
             <li><a href="#">Web Series</a></li>
-            <li><a href="#">Upcomming</a></li>
+            <li><a href="#">Upcoming</a></li>
         </ul>
         <div class="search">
             <input type="text" placeholder="Search...">
@@ -45,12 +45,18 @@
         </div>
     </section>
 
+    <!-- Categories -->
+
+    <div class="category">
+        <h2><span></span> Upcoming <span></span></h2>
+        </div>
 
 <!-- cards start -->
     <div class="cards">
+        
         <div href="#" class="card">
             <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
+            <img src="../image/cover/shershaah.webp" alt="">
             <div class="content">
                 <h4>Shershaah 2021</h4>
                 <span>Action, Love, Drama</span>
@@ -59,85 +65,69 @@
 
         <div href="#" class="card">
             <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
+            <img src="../image/cover/6underground.webp" alt="">
             <div class="content">
-                <h4>Shershaah 2021</h4>
+                <h4>6underground </h4>
                 <span>Action, Love, Drama</span>
             </div>
         </div>
 
         <div href="#" class="card">
             <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
+            <img src="../image/cover/chalmeraputt3.webp" alt="">
             <div class="content">
-                <h4>Shershaah 2021</h4>
+                <h4>Chalmeraputt3</h4>
                 <span>Action, Love, Drama</span>
             </div>
         </div>
 
         <div href="#" class="card">
             <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
+            <img src="../image/cover/chehre.webp" alt="">
             <div class="content">
-                <h4>Shershaah 2021</h4>
+                <h4>Chehre</h4>
                 <span>Action, Love, Drama</span>
             </div>
         </div>
 
         <div href="#" class="card">
             <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
+            <img src="../image/cover/deadtecties.webp" alt="">
             <div class="content">
-                <h4>Shershaah 2021</h4>
+                <h4>Deadtecties 2021</h4>
                 <span>Action, Love, Drama</span>
             </div>
         </div>
 
         <div href="#" class="card">
             <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
+            <img src="../image/cover/hoslarakh.webp" alt="">
             <div class="content">
-                <h4>Shershaah 2021</h4>
+                <h4>Hoslarakh 2021</h4>
                 <span>Action, Love, Drama</span>
             </div>
         </div>
 
         <div href="#" class="card">
             <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
+            <img src="../image/cover/noah.webp" alt="">
             <div class="content">
-                <h4>Shershaah 2021</h4>
+                <h4>Noah 2021</h4>
                 <span>Action, Love, Drama</span>
             </div>
         </div>
 
         <div href="#" class="card">
             <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
+            <img src="../image/cover/bfg.webp" alt="">
             <div class="content">
-                <h4>Shershaah 2021</h4>
+                <h4>bfg 2021</h4>
                 <span>Action, Love, Drama</span>
             </div>
         </div>
 
-        <div href="#" class="card">
-            <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
-            <div class="content">
-                <h4>Shershaah 2021</h4>
-                <span>Action, Love, Drama</span>
-            </div>
-        </div>
-
-        <div href="#" class="card">
-            <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/shershaah.webp" alt="Shershaah.webp">
-            <div class="content">
-                <h4>Shershaah 2021</h4>
-                <span>Action, Love, Drama</span>
-            </div>
-        </div>
-
-        <!-- totals de cards est de 10 -->
+        <!-- totals de cards est de 08 -->
     </div>
+
+    <img src="../image/cover/damso.png" alt="" class="main_img">
 </header>
