@@ -50,7 +50,10 @@
     <div class="cards">
         <div href="#" class="card">
             <!-- mdp pour les imgs : kdscoder -->
-            <img src="../image/cover/hoslarakh.webp" alt="">
+            <img src="../image/cover/hoslarakh.webp" alt="hoslarakh.webp">
+            <div class="content">
+                
+            </div>
         </div>
     </div>
 </header>
