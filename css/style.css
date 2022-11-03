@@ -321,7 +321,7 @@ header .cards .card .content h4
    font-size: 13px;
 }
 
-header .cards .card .content p
+header .cards .card .content span
 {
    color: aliceblue;
    font-size: 10px;
