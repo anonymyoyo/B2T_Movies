@@ -325,8 +325,8 @@ header .cards
 header .cards .card
 {
     /* border: 1px solid rgba(240, 13, 13, 0.959);; */
-    width: 125px;
-    height: 185px;
+    min-width: 125px;
+    min-height: 185px;
     border-radius: 10px;
     margin: 0px 5px;
     position: relative;
@@ -376,4 +376,29 @@ header .cards .card .content span
 {
    color: aliceblue;
    font-size: 10px;
+}
+
+@media only screen and (max-width: 1190px){
+    header .cards
+    {
+        overflow-x: auto;
+    }
+}
+
+@media only screen and (max-width: 641px){
+    header nav ul li 
+    {
+        padding: 3px 7px;
+    }
+    header nav ul li a 
+    {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 541px){
+    header section .content
+    {
+        padding-left: 15px;
+    }
 }
