@@ -48,6 +48,9 @@
 
 <!-- cards start -->
     <div class="cards">
-        <a href="#" class="card"></a>
+        <div href="#" class="card">
+            <!-- mdp pour les imgs : kdscoder -->
+            <img src="../image/cover/hoslarakh.webp" alt="">
+        </div>
     </div>
 </header>
