@@ -39,6 +39,9 @@
                 <button type=""><i class="bi bi-play-fill"></i></button>
                 <button type=""><i class="bi bi-cloud-arrow-down-fill"></i></button>
             </div>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae quod possimus rem voluptate pariatur delectus nobis, sunt, assumenda culpa voluptates eligendi dolor similique reprehenderit minus laborum commodi illum distinctio tempore?
+            </p>
         </div>
     </section>
 

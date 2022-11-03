@@ -144,7 +144,7 @@ header section
 
 header section .content
 {
-    border: 1px solid aliceblue;
+    /* border: 1px solid aliceblue; */
     width: 400px;
     height: 70%;
     padding-left: 60px;
@@ -235,17 +235,25 @@ header section .content .btns button .bi
 
 header section .content .btns button:hover .bi
 {
-    color: #131314
+    color: #131314;
 }
 
 header section .content .btns button .bi-cloud-arrow-down-fill
 {
-    color: #131314
+    color: #131314;
 }
 
 header section .content .btns button:hover .bi-cloud-arrow-down-fill
 {
-    color: #131314
+    color: aliceblue;
+}
+
+header section .content p
+{
+    color: aliceblue;
+    font-size: 10px;
+    font-family: sans-serif;
+    margin-top: 15px;
 }
 
 /* cards start */
