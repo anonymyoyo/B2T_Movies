@@ -39,7 +39,7 @@ header
 header .main_img
 {
     left: 57%;
-    margin-top: 7%;
+    margin-top: 4%;
     position: absolute;
     width: 35%;
     height: 50%;
@@ -297,13 +297,13 @@ header .category h2
     margin: auto;
 }
 
-header .category h2 span
+/* header .category h2 span
 {
     width: 100%;
     display: flex;
     border: 0.5px solid aliceblue;
     margin: auto;
-}
+} */
 
 /* End Category */
 
@@ -378,7 +378,7 @@ header .cards .card .content span
    font-size: 10px;
 }
 
-@media only screen and (max-width: 1190px){
+/* @media only screen and (max-width: 1190px){
     header .cards
     {
         overflow-x: auto;
@@ -445,4 +445,4 @@ header .cards .card .content span
     }
 
 
-}
+} */

@@ -47,9 +47,9 @@
 
     <!-- Categories -->
 
-    <div class="category">
+    <!-- <div class="category">
         <h2><span></span> Upcoming <span></span></h2>
-        </div>
+        </div> -->
 
 <!-- cards start -->
     <div class="cards">
@@ -129,5 +129,5 @@
         <!-- totals de cards est de 08 -->
     </div>
 
-    <img src="../image/cover/damso.png" alt="" class="main_img">
+    <img src="../image/cover/main_bg.png" alt="" class="main_img">
 </header>
